@@ -95,3 +95,4 @@
 /Users/dianac/Documents/repos-diana/MiAplicacionMVC/MiAplicacionMVC/obj/Debug/net9.0/MiAplicacionMVC.pdb
 /Users/dianac/Documents/repos-diana/MiAplicacionMVC/MiAplicacionMVC/obj/Debug/net9.0/MiAplicacionMVC.genruntimeconfig.cache
 /Users/dianac/Documents/repos-diana/MiAplicacionMVC/MiAplicacionMVC/obj/Debug/net9.0/ref/MiAplicacionMVC.dll
+/Users/dianac/Documents/repos-diana/MiAplicacionMVC/MiAplicacionMVC/obj/Debug/net9.0/MiAplicacionMVC.sourcelink.json
